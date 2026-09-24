@@ -1,0 +1,6 @@
+{
+  "name": "Village Sports Hub",
+  "description": "Grassroots sports discovery and sponsorship network empowering rural athletes to reach scouts, academies, and professional trials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
